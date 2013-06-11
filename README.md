@@ -1,5 +1,4 @@
 # Rack::JekyllDispatch
-====================
 
 Rack middleware that allows Jekyll content to be served from a static directory within your Rack application. Derived from how Rails serves static content from ActionDispatch::Static.
 

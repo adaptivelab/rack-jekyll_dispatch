@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["simonpreed@gmail.com"]
   spec.description   = "Rack middleware to serve Jekyll static content."
   spec.summary       = "Rack Middleware that allows Jekyll content to be served from a static directory within your Rack application. Derived from how Rails serves static content from ActionDispatch::Static."
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/adaptivelab/rack-jekyll_dispatch"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files`.split($/)
